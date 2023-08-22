@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# My Portfolio
+
+This project was created using React.
+
+## Description
+
+This is the portfolio website of Ty Kirkland that includes an about me section, projects that they are working on, and ways to contact/connect with him.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
