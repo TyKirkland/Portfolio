@@ -4,3 +4,65 @@
     justify-content: space-between;
     background-color: rgb(34,34,34);
 } */
+
+.topbar {
+    height: 58px;
+    background-color: black;
+}
+
+.center {
+    display: flex;
+    flex: 1 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-mr-auto {
+    margin-right: auto !important;
+  }
+  
+  .parent {
+    display: flex; /* Enable flexbox layout */
+    justify-content: center !important; /* Center-align child elements horizontally */
+    align-items: center; /* Center-align child elements vertically */
+    }
+  
+  /* Style for the first (left) element */
+  .left-element {
+    /* You can add additional styling if needed */
+    position: absolute;
+    left: 1.5%;
+  }
+  
+  /* Style for the second (centered) element */
+  .center-element {
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .logo {
+    height: 50px;
+    width: 50px;
+    transition: transform 0.2s;
+  }
+
+  .logo:hover {
+    transform: scale(1.1);
+  }
+
+  .divider {
+    color: white !important;
+    pointer-events: none;
+    font-size: 26px !important;
+  }
+
+  .link {
+    transition: transform 0.2s;
+  }
+
+  .link:hover {
+    color: red;
+    transform: scale(1.1);
+  }

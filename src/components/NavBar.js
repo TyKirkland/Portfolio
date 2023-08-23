@@ -10,13 +10,28 @@ function NavBar() {
     return (
         // <div className="navbar" data-bs-theme="dark">
         // </div>
-            <Navbar bg="dark" expand="sm" className="topbar">
-                <Container fluid>
-                    <Navbar.Brand href='#'>
+            <Navbar expand="sm" className="topbar">
+                <Container fluid className="parent">
+                    <Navbar.Brand href='' className="left-element">
                         <NavLink to={'/'}>
-                            <img src='' alt='Home Button' />
+                            <img src={process.env.PUBLIC_URL + '/TemporaryLogo.png'} alt='Home' className="logo"/>
                         </NavLink>
                     </Navbar.Brand>
+                    <NavLink to={'/about'} className="link center-element">
+                            About
+                    </NavLink>
+                    <div className="divider center-element">
+                        |
+                    </div>
+                    <NavLink to={'/projects'} className="link center-element">
+                            Projects
+                    </NavLink>
+                    <div className="divider center-element">
+                        |
+                    </div>
+                    <NavLink to={'/contact'} className="link center-element">
+                            Contact
+                    </NavLink>
                 </Container>
             </Navbar>
     )
