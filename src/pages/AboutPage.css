@@ -1,0 +1,33 @@
+.about_page{
+    margin-top: 20px;
+}
+
+.intro_section{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.intro_section .text_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.skills_section{
+    margin-top: 20px;
+}
+
+.background_section{
+    margin-top: 20px;
+}
+
+.aboutpage_photo{
+        flex: 1;
+        border-radius: 50%;
+        border: 4px solid black;
+        max-width: 340px;
+        margin-left: 75px;
+}

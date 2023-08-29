@@ -4,7 +4,19 @@ import './HomePage.css';
 function HomePage() {
     return (
         <div className="home">
-            <div>Home Page</div>
+            <h1>Ty Kirkland</h1>
+            <div className="home_content">
+                {/* <div className="skills">
+                    <h5>Skills:</h5>
+                </div> */}
+                <img className="photo" src={process.env.PUBLIC_URL + '/PlaceHolderPhoto.png'} alt="Photo of Ty"></img>
+                {/* <div className="skills">
+                    <h5>Soft Skills:</h5>
+                    <br></br>
+                    <div>Communication</div>
+                </div> */}
+            </div>
+            <h2>Software Engineer</h2>
         </div>
     )
 }

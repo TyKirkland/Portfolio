@@ -1,0 +1,25 @@
+.github_logo{
+    max-width: 155px;
+    margin-right: 20px;
+}
+
+.linkedin_logo{
+    max-width: 110px;
+    margin-left: 10px;
+}
+
+.contact_logos{
+    margin-top: 50px;
+}
+
+.contact_page{
+    margin-top: 30px;
+}
+
+.contact_title{
+    margin-bottom: 50px;
+}
+
+.contact_email{
+    margin-bottom: 30px;
+}
