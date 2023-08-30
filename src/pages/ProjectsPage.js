@@ -47,9 +47,11 @@ function ProjectsPage() {
             <h2 className="project4_title">Battle Arena</h2>
             <div className="project4">
                 <div className="project4_text">
-                    <div className="project4_text1">This is a Battle Arena type of application that allows the user to create characters, weapons, armor and spells with fully customizable stats. You can then equip the characters with the weapons, armor and if they are a mage, spells. After fully customizing the characters you can pit them against each other in a text-based fight that uses each stat to dynamically fight with each other until there is one winner.</div>
+                    <div className="project4_text1">This is a Battle Arena type of application that allows the user to create characters, weapons, armor and spells with fully customizable stats. You can then equip the characters with the weapons, armor and if they are a mage, spells.</div>
                     <br></br>
-                    <div className="project4_text2">I created this full-stack application using Django, Python, HTML, CSS and SQL databases.</div>
+                    <div className="project4_text2">After fully customizing the characters you can pit them against each other in a text-based fight that uses each stat to dynamically fight with each other until there is one winner.</div>
+                    <br></br>
+                    <div className="project4_text3">I created this full-stack application using Django, Python, HTML, CSS and SQL databases.</div>
                     <br></br>
                     <a className="project4_link" href="https://teampro3-front.onrender.com/" target="_blank">Live Link</a>
                 </div>

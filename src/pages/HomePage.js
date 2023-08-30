@@ -16,7 +16,7 @@ function HomePage() {
                     <div>Communication</div>
                 </div> */}
             </div>
-            <h2>Software Engineer</h2>
+            <h3>Software Engineer</h3>
         </div>
     )
 }

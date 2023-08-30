@@ -40,3 +40,7 @@
 body{
   background-color: rgb(219, 216, 216) !important;
 }
+
+::-webkit-scrollbar{
+  width: 0px;
+}
