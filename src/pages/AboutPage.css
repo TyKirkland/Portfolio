@@ -1,5 +1,5 @@
 .about_page{
-    margin-top: 20px;
+    margin-top: 70px;
 }
 
 .intro_section{
@@ -99,6 +99,8 @@
     position: absolute;
     top: 28%;
     right: 15%;
+    border: 1px black solid;
+    border-radius: 5%;
 }
 
 .python_logo{

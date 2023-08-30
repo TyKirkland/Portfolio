@@ -53,7 +53,7 @@ function ProjectsPage() {
                     <br></br>
                     <div className="project4_text3">I created this full-stack application using Django, Python, HTML, CSS and SQL databases.</div>
                     <br></br>
-                    <a className="project4_link" href="https://teampro3-front.onrender.com/" target="_blank">Live Link</a>
+                    <a className="project4_link" href="https://battle-arena.onrender.com/" target="_blank">Live Link</a>
                 </div>
                 <img className="project4_photo1" src={process.env.PUBLIC_URL + '/BattleArenaScreenShot1.png'} alt="BattleArenaPhoto"></img>
             </div>
