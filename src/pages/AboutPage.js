@@ -13,6 +13,8 @@ function AboutPage() {
             </div>
             <hr></hr>
             <div className="skills_section">
+                <img className="python_logo" src={process.env.PUBLIC_URL + '/PythonLogo.png'} alt="Python Logo"></img>
+                <img className="javascript_logo" src={process.env.PUBLIC_URL + '/JavascriptLogo.png'} alt="Javascript Logo"></img>
                 <h1>Skills</h1>
                 <br></br>
                 <h3>Languages:</h3>

@@ -20,7 +20,8 @@
 
 .skills_section{
     margin-top: 20px;
-    margin-bottom: 35px;
+    margin-bottom: 45px;
+    position: relative;
 }
 
 .background_section{
@@ -91,4 +92,18 @@
 .background_section4_text{
     width: 350px;
     margin-left: 45px;
+}
+
+.javascript_logo{
+    max-width: 150px;
+    position: absolute;
+    top: 28%;
+    right: 15%;
+}
+
+.python_logo{
+    max-width: 150px;
+    position: absolute;
+    top: 28%;
+    left: 15%;
 }
