@@ -7,7 +7,7 @@ function ProjectsPage() {
             <h2 className="project1_title">Chess</h2>
             <div className="project1">
                 <a className="project1_link" href="https://tykirkland.github.io/Project-1/" target="_blank">
-                    <img className="project1_photo" src={process.env.PUBLIC_URL + '/ChessScreenShot.png'} alt="ChessPhoto"></img>
+                    <img className="project1_photo" src={process.env.PUBLIC_URL + '/ChessScreenShot.png'} alt="Chess Photo"></img>
                 </a>
                 <div className="project1_text">
                     <div className="project1_text1">This is the classic game of chess! Allowing you to play a legal moves only match locally against yourself or an opponent.</div>
@@ -32,14 +32,14 @@ function ProjectsPage() {
                     <a className="live_link2" href="https://ezemployees.onrender.com/" target="_blank">Live Link</a>
                 </div>
                 <a className="project2_link" href="https://ezemployees.onrender.com/" target="_blank">
-                    <img className="project2_photo" src={process.env.PUBLIC_URL + '/EZEmployeesScreenShot.png'} alt="EZEmployeesPhoto"></img>
+                    <img className="project2_photo" src={process.env.PUBLIC_URL + '/EZEmployeesScreenShot.png'} alt="EZEmployees Photo"></img>
                 </a>
             </div>
             <hr></hr>
             <h2 className="project3_title">Echo</h2>
             <div className="project3">
                 <a className="project3_link" href="https://teampro3-front.onrender.com/" target="_blank">
-                    <img className="project3_photo" src={process.env.PUBLIC_URL + '/EchoScreenShot.png'} alt="EchoPhoto"></img>
+                    <img className="project3_photo" src={process.env.PUBLIC_URL + '/EchoScreenShot.png'} alt="Echo Photo"></img>
                 </a>
                 <div className="project3_text">
                     <div className="project3_text1">Echo is a video library application that utilizes full CRUD functionality to allow the user to create an account, create categories, store videos by searching for them from an API and sort the videos using either the categories or the sort by button.</div>
@@ -62,11 +62,11 @@ function ProjectsPage() {
                     <a className="live_link4" href="https://battle-arena.onrender.com/" target="_blank">Live Link</a>
                 </div>
                 <a className="project4_link" href="https://battle-arena.onrender.com/" target="_blank">
-                    <img className="project4_photo1" src={process.env.PUBLIC_URL + '/BattleArenaScreenShot1.png'} alt="BattleArenaPhoto"></img>
+                    <img className="project4_photo1" src={process.env.PUBLIC_URL + '/BattleArenaScreenShot1.png'} alt="BattleArena Photo"></img>
                 </a>
             </div>
             <a className="project4_link" href="https://battle-arena.onrender.com/" target="_blank">
-                <img className="project4_photo2" src={process.env.PUBLIC_URL + '/BattleArenaScreenShot2.png'} alt="BattleArenaPhoto"></img>
+                <img className="project4_photo2" src={process.env.PUBLIC_URL + '/BattleArenaScreenShot2.png'} alt="BattleArena Photo"></img>
             </a>
         </div>
     )

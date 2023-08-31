@@ -10,10 +10,10 @@ function ContactPage() {
             <div className="contact_logos">
                 <h4>Connect with me</h4>
                 <a href="https://github.com/TyKirkland" target="_blank">
-                    <img className="github_logo" src={process.env.PUBLIC_URL + '/GithubLogo.png'} alt="Photo of Ty"></img>
+                    <img className="github_logo" src={process.env.PUBLIC_URL + '/GithubLogo.png'} alt="Github Logo"></img>
                 </a>
                 <a href="https://www.linkedin.com/in/ty-kirkland/" target="_blank">
-                    <img className="linkedin_logo" src={process.env.PUBLIC_URL + '/LinkedInLogo.webp'} alt="Photo of Ty"></img>
+                    <img className="linkedin_logo" src={process.env.PUBLIC_URL + '/LinkedInLogo.webp'} alt="LinkedIn Logo"></img>
                 </a>
             </div>
         </div>
