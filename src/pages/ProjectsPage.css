@@ -122,9 +122,29 @@
     background-color: rgb(93, 127, 75);
     padding: 3px;
     border-radius: 5%;
+    margin-right: 5px;
+}
+
+.github_link1{
+    border: 1px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(93, 127, 75);
+    padding: 3px;
+    border-radius: 5%;
 }
 
 .live_link2{
+    border: 1px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(36, 54, 69);
+    padding: 3px;
+    border-radius: 5%;
+    margin-right: 5px;
+}
+
+.github_link2{
     border: 1px solid black;
     text-decoration: none;
     color: white;
@@ -140,9 +160,29 @@
     background-color: rgb(0, 47, 139);
     padding: 3px;
     border-radius: 5%;
+    margin-right: 5px;
+}
+
+.github_link3{
+    border: 1px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 47, 139);
+    padding: 3px;
+    border-radius: 5%;
 }
 
 .live_link4{
+    border: 1px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(17, 17, 28);
+    padding: 3px;
+    border-radius: 5%;
+    margin-right: 5px;
+}
+
+.github_link4{
     border: 1px solid black;
     text-decoration: none;
     color: white;
