@@ -31,7 +31,7 @@ function AboutPage() {
                 <h1 className="background_section_title">Background</h1>
                 <div className="background_section1">
                     <div className="background_section1_text">
-                        I am an eager software engineer from the charming small town of Lugoff, South Carolina, where I spent my early years on a farm, far removed from the touch of technology. But even amidst the tranquility of rural life, I found my heart drawn to its pulsating beat. However, my journey into the world of software engineering was an unexpected one.
+                        I am an enthusiastic software engineer from the charming small town of Lugoff, South Carolina, where I spent my early years on a farm, far removed from the touch of technology. But even amidst the tranquility of rural life, I found my heart drawn to its pulsating beat. However, my journey into the world of software engineering was an unexpected one.
                     </div>
                     <img className="aboutpage_photo" src={process.env.PUBLIC_URL + '/PlaceHolderPhoto.png'} alt="Photo of Ty"></img>
                 </div>

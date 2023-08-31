@@ -22,6 +22,7 @@
     margin-top: 20px;
     margin-bottom: 45px;
     position: relative;
+    
 }
 
 .background_section{
@@ -108,4 +109,9 @@
     position: absolute;
     top: 28%;
     left: 15%;
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    cursor: default;
 }
