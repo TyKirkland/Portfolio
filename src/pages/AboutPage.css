@@ -115,3 +115,41 @@ body{
     font-family: 'DM Sans', sans-serif;
     cursor: default;
 }
+
+.aboutpage_photo1{
+    border-radius: 15%;
+    border: 2px solid black;
+    max-width: 340px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.aboutpage_photo2{
+    border-radius: 10%;
+    border: 2px solid black;
+    max-width: 340px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.aboutpage_photo3{
+    border-radius: 10%;
+    border: 2px solid black;
+    max-width: 340px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.aboutpage_photo4{
+    max-width: 340px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.aboutpage_photo5{
+    border-radius: 10%;
+    border: 2px solid black;
+    max-width: 340px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
