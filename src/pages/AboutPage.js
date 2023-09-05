@@ -1,5 +1,6 @@
 import React from "react";
 import './AboutPage.css';
+import './AboutPageMediaQueries.css';
 
 function AboutPage() {
     return (
@@ -8,7 +9,7 @@ function AboutPage() {
                 <div className="text_div">
                     <h1>Hi... I'm Ty</h1>
                 </div>
-                <img className="aboutpage_photo1" src={process.env.PUBLIC_URL + '/PlaceHolderPhoto.png'} alt="Photo of Ty"></img>
+                <img className="aboutpage_photo1" src={process.env.PUBLIC_URL + '/PersonalPhoto.png'} alt="Photo of Ty"></img>
                 <h4 className="text1">I am a highly competitive and passionate software engineer who loves complicated problems, critical thinking, and technology.</h4>
             </div>
             <hr></hr>
@@ -48,7 +49,7 @@ function AboutPage() {
                     <img className="aboutpage_photo4" src={process.env.PUBLIC_URL + '/GALogo.png'} alt="Photo of Ty"></img>
                 </div>
                 <div className="background_section4">
-                    <img className="aboutpage_photo5" src={process.env.PUBLIC_URL + '/GraduationPhoto7.png'} alt="Photo of Ty"></img>
+                    <img className="aboutpage_photo5" src={process.env.PUBLIC_URL + '/GraduationPhoto9.jpeg'} alt="Photo of Ty"></img>
                     <div className="background_section4_text">
                         Today, I stand before you as a graduate, armed with the determination to leverage technology for the betterment of society. Join me as I continue to explore the limitless possibilities that software engineering offers. Together, let's build innovative solutions that make a meaningful impact on the world. The future is digital, and I'm excited to be a part of it!
                     </div>

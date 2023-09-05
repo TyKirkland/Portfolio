@@ -1,5 +1,6 @@
 import React from "react";
 import './ProjectsPage.css';
+import './ProjectsPageMediaQueries.css';
 
 function ProjectsPage() {
     return (
